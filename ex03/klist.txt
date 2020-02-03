@@ -1,0 +1,7 @@
+
+
+Credentials cache: API:FC11EDD4-358E-44E0-872E-212B2C940CB2
+        Principal: sturkogl@S19.BE
+
+  Issued                Expires               Principal
+Feb  3 17:23:24 2020  Feb  4 03:23:17 2020  krbtgt/S19.BE@S19.BE
